@@ -1,1 +1,1 @@
-# tugas
+Tugas terbaru, tentang for loop. Sudah selesai. 
