@@ -2,7 +2,7 @@
 require_once "GymMembership.php";
 
 try {
-    $member = new GymMembership("Andi", "Premium", 3);
+    $member = new GymMembership("Isto", "Premium", 3);
 
     echo "<h2>GYM MEMBERSHIP</h2>";
     echo "Member Name: " . $member->getMemberName() . "<br>";

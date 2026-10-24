@@ -2,7 +2,7 @@
 require_once "GymMembership.php";
 
 try {
-    $member = new GymMembership("", "Premium", 3);
+    $member = new GymMembership("Isto", "Premium", 3);
 
     echo "Member created successfully!";
 } catch (InvalidArgumentException $e) {
